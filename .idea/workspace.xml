@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c5c2d55-a91d-4bf3-acba-b0f295bbd780" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG" />
+  </component>
+  <component name="ProjectId" id="23YsMAZ0RnMLkAkpGVqyoFaQ6s2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG/catalogue" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG" />
+      <recent name="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG/commandes_db" />
+      <recent name="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG/commandes" />
+      <recent name="$PROJECT_DIR$/nodemailer/app/public/images" />
+      <recent name="$PROJECT_DIR$/docker/service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG/catalogue" />
+      <recent name="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG/uploads" />
+      <recent name="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG" />
+      <recent name="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG/suivi-commaandes" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start (3)">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/nodemailer/app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (3)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/lebonsandwich-OLIVIA-WANG/service/api/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/docker/service/api/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/nodemailer/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/docker/service/api/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (3)" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.watch" />
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.watch (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c5c2d55-a91d-4bf3-acba-b0f295bbd780" name="Default Changelist" comment="" />
+      <created>1641922304858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641922304858</updated>
+      <workItem from="1641922306835" duration="9894000" />
+      <workItem from="1641944665291" duration="184000" />
+      <workItem from="1641983971906" duration="614000" />
+      <workItem from="1641995246137" duration="393000" />
+      <workItem from="1642015956007" duration="176000" />
+      <workItem from="1642327395974" duration="923000" />
+      <workItem from="1642373669691" duration="985000" />
+      <workItem from="1642374990580" duration="2829000" />
+      <workItem from="1642510715193" duration="2642000" />
+      <workItem from="1642515033310" duration="3128000" />
+      <workItem from="1642520314552" duration="4569000" />
+      <workItem from="1642537754018" duration="455000" />
+      <workItem from="1642605875028" duration="2000" />
+      <workItem from="1642627894253" duration="1847000" />
+      <workItem from="1642632944475" duration="55000" />
+      <workItem from="1642677303156" duration="18468000" />
+      <workItem from="1642706251156" duration="144000" />
+      <workItem from="1642971943194" duration="6144000" />
+      <workItem from="1642980416062" duration="319000" />
+      <workItem from="1643115436139" duration="962000" />
+      <workItem from="1643119037404" duration="8075000" />
+      <workItem from="1643136983720" duration="351000" />
+      <workItem from="1643720725203" duration="7343000" />
+      <workItem from="1643739822961" duration="228000" />
+      <workItem from="1643802524739" duration="16000" />
+      <workItem from="1643835821647" duration="1935000" />
+      <workItem from="1643837864826" duration="4125000" />
+      <workItem from="1643896575031" duration="13000" />
+      <workItem from="1643979717318" duration="20019000" />
+      <workItem from="1646139655470" duration="8231000" />
+      <workItem from="1646381354712" duration="11356000" />
+      <workItem from="1646573027430" duration="9875000" />
+      <workItem from="1646586114895" duration="110000" />
+      <workItem from="1646982506746" duration="8072000" />
+      <workItem from="1647349239398" duration="9382000" />
+      <workItem from="1647367043922" duration="3644000" />
+      <workItem from="1647431672998" duration="3656000" />
+      <workItem from="1647591233905" duration="5727000" />
+      <workItem from="1649676769013" duration="4156000" />
+      <workItem from="1649701642593" duration="5000" />
+      <workItem from="1649701958149" duration="73000" />
+      <workItem from="1649702628885" duration="301000" />
+      <workItem from="1649707322910" duration="690000" />
+      <workItem from="1652438244878" duration="236000" />
+    </task>
+    <task id="LOCAL-00001" summary="ajoute nouvelle commande">
+      <created>1643994476850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643994476850</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ajoute validation des données">
+      <created>1644007185712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644007185712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="créer service catalogue">
+      <created>1646988786430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646988786431</updated>
+    </task>
+    <task id="LOCAL-00004" summary="corrige nom du service catalogue">
+      <created>1646989380117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646989380117</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Insérer datas dans directus">
+      <created>1647368168113</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647368168113</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajoute data">
+      <created>1647370822079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647370822079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajoute nouvelle commande" />
+    <MESSAGE value="ajoute validation des données" />
+    <MESSAGE value="créer service catalogue" />
+    <MESSAGE value="corrige nom du service catalogue" />
+    <MESSAGE value="Insérer datas dans directus" />
+    <MESSAGE value="Ajoute data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajoute data" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="407" key="GridCell.Tab.0.bottom" timestamp="1652438536390">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1652438536390" />
+    <state width="1398" height="407" key="GridCell.Tab.0.center" timestamp="1652438536390">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1652438536390" />
+    <state width="1398" height="407" key="GridCell.Tab.0.left" timestamp="1652438536389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1652438536389" />
+    <state width="1398" height="407" key="GridCell.Tab.0.right" timestamp="1652438536390">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1652438536390" />
+    <state x="386" y="156" key="RollbackChangesDialog" timestamp="1646585346690">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="386" y="156" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1646585346690" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1643836825620">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1643836825620" />
+    <state x="388" y="188" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647450399914">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="388" y="188" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1440.900@0.0.1440.900" timestamp="1647450399914" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1643836818260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1643836818260" />
+  </component>
+</project>
